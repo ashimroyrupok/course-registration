@@ -6,9 +6,12 @@ Click here for the private repo: [https://classroom.github.com/a/8TQS2mML](https
 
 
 
-##  Questions
+##  Let's know about our Course Resgistration Project feature
+ - You can'nt able to reapet one card in Bookmark
+ - Your total cradit hour is 20h.
+ - You can use this project in any Device
 
-- Add at least 3 Project features 
+___
+___
 
-
-- Discuss how you managed the state in your assignment project.
+## Now we are going to know how can i managed the state in this project.
